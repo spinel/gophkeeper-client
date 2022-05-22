@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/spinel/my/ya_prakt/gophkeeper/server/gophkeeper-client'
+make: Leaving directory '/home/spinel/my/ya_prakt/gophkeeper/server/gophkeeper-client'
+ 
+make: *** No targets.  Stop.
+
